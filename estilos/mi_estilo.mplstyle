@@ -1,11 +1,12 @@
 font.weight: bold
 font.size: 14.0
-text.color: dimgray 
+text.color: 545353 
 xaxis.labellocation: left
 yaxis.labellocation: top
 xtick.color: gray
 ytick.color: gray
 axes.titleweight: bold
+axes.titlepad: 30
 axes.grid: True
 axes.axisbelow: True
 axes.edgecolor: gray
@@ -17,7 +18,7 @@ axes.labelcolor: dimgrey
 axes.labelweight: bold
 grid.alpha: 0.6
 grid.linewidth: 0.6
-axes.prop_cycle: cycler('color', ['07668C','219ebc','8ecae6', 'E7B4A5', 'EE6C4D','293241'])
+axes.prop_cycle: cycler('color', ['21295c','1b3b6f','065a82', '1c7293', '9eb3c2','bfd7ff'])
 figure.titleweight: bold
 figure.facecolor: whitesmoke
 figure.autolayout: True
