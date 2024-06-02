@@ -1,0 +1,25 @@
+font.weight: bold
+font.size: 14.0
+text.color: dimgray 
+xaxis.labellocation: left
+yaxis.labellocation: top
+xtick.color: gray
+ytick.color: gray
+axes.titleweight: bold
+axes.grid: True
+axes.axisbelow: True
+axes.edgecolor: gray
+axes.facecolor: whitesmoke
+axes.linewidth: 0.6
+axes.spines.right: False
+axes.spines.top: False
+axes.labelcolor: dimgrey 
+axes.labelweight: bold
+grid.alpha: 0.6
+grid.linewidth: 0.6
+axes.prop_cycle: cycler('color', ['07668C','219ebc','8ecae6', 'E7B4A5', 'EE6C4D','293241'])
+figure.titleweight: bold
+figure.facecolor: whitesmoke
+figure.autolayout: True
+image.cmap: PuBu_r
+
