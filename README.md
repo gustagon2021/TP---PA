@@ -1,6 +1,6 @@
 # Análisis de Acciones con MATPLOTLIB
 
-Este repositorio contiene scripts que ilustran el uso de la biblioteca MATPLOTLIB para el análisis de precios de acciones. En el ejemplo principal, se busca identificar acciones de empresas argentinas cuyo precio actual tenga una mayor diferencia porcentual respecto a su promedio semanal.
+Este repositorio contiene scripts que ilustran el uso de la biblioteca MATPLOTLIB para el análisis de precios de acciones. En el ejemplo principal, se busca identificar acciones de empresas argentinas cuyo precio actual tenga una mayor diferencia porcentual a la baja respecto a su promedio semanal. Esto le permitira a un operador finaciero determinar la compra, o no, de acciones que mas hayan disminuido su valor.
 
 ## Descripción
 
